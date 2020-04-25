@@ -1,1 +1,1 @@
-const i=10
+const API_KEY="aewrewr";

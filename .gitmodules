@@ -1,0 +1,9 @@
+[submodule "FirstWebsite"]
+	path = FirstWebsite
+	url = https://github.com/sathish-mk/FirstWebsite
+[submodule "submodules/FirstWebsite"]
+	path = submodules/FirstWebsite
+	url = https://github.com/sathish-mk/FirstWebsite
+[submodule "external/submodules"]
+	path = external/submodules
+	url = https://github.com/sathish-mk/FirstWebsite

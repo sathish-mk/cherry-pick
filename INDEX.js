@@ -1,1 +1,1 @@
-const API_KEY="aewrewr";
+const API_KEY="{SECURE_API_KEY}";
